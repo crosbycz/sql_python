@@ -15,6 +15,7 @@ header = """
 # main menu
 print(header)
 print("=> Pro Vytvoření nové tabulky napiš create ")
+print("")
 print("=> Pro exit napiš exit")
 interakce = input("Zadejte interakci: ")
 
